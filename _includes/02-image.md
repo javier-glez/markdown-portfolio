@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of google](https://www.disproin.com/wp-content/uploads/2021/05/microsoft-img-1.png)
